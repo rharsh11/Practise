@@ -1,5 +1,5 @@
 package com.dataStructure.linkedLists;
-
+//Comment
 public class LinkedList {
 	
 	private String data;
