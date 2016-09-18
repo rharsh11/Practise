@@ -1,5 +1,5 @@
 package com.dataStructure.linkedLists;
-//Comment3 At0131 hours
+//Removing Comment
 public class LinkedList {
 	
 	private String data;
